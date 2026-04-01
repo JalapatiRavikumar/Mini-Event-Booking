@@ -1,3 +1,5 @@
+Live url: https://frontend-ten-alpha-67.vercel.app/
+
 # Mini Event Booking System
 
 Production-ready event booking solution with a Node.js backend and a separate React frontend.
